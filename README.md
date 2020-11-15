@@ -1,5 +1,7 @@
 ### Hi there, I'm Ranveer - aka [dedgeek][website] 👋
 
+![](https://komarev.com/ghpvc/?username=ranveersequeira)
+
 
 ## I'm a Tech Savvy, Learner!!
 
