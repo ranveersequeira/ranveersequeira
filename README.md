@@ -9,11 +9,11 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to study Philosophy and psychology.
+- ⚡ Fun fact: I love to study Philosophy,psychology and needless to say music never hurts 🤣
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/e30ikslsk9itm1q2xuavp6taq)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ranveer Spotify Playing" width="350" />](https://open.spotify.com/user/e30ikslsk9itm1q2xuavp6taq)
 
 ### Connect with me:
 
