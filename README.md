@@ -1,4 +1,4 @@
-### Hi there, I'm Ranveer - aka [dedgeek][https://ranveersequeira.me/] 👋
+### Hi there, I'm Ranveer - aka [dedgeek!](https://ranveersequeira.me/) 👋
 
 ![](https://komarev.com/ghpvc/?username=ranveersequeira)
 
