@@ -19,18 +19,16 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ranveer Spotify Playing" width="350" />](https://open.spotify.com/user/e30ikslsk9itm1q2xuavp6taq)
 
-### Connect with me:
-
-
+### Connect with me:  
 
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+</br>
 
-<br />
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=ranveersequeira&margin-w=15&column=4&row=3)](https://github.com/ryo-ma/github-profile-trophy)
- 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ranveersequeira&margin-w=15&column=4&row=3)](https://github.com/ryo-ma/github-profile-trophy)  
+
 
 ### Languages and Tools:
 <p align="center">
@@ -44,11 +42,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25px" height="25px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
-  </p>
+  </p>  
+  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranveersequeira&layout=compact&langs_count=8)](https://github.com/ranveersequeira)
-![Fredy's github stats](https://github-readme-stats.vercel.app/api?username=ranveersequeira&show_icons=true&hide=["issues"])
+
+![ranveer's github stats](https://github-readme-stats.vercel.app/api?username=ranveersequeira&show_icons=true&hide=["issues"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranveersequeira&layout=compact&langs_count=8)](https://github.com/ranveersequeira)  
+
 
 
 
