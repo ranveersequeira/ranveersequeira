@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Become Backend Developer
 - ⚡ Fun fact: I love to study Philosophy,psychology and needless to say music never hurts 🤣
 
 
