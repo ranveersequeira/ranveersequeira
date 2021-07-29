@@ -23,7 +23,7 @@
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 </br>
 
-
+### DEV Skills
 <p align="center">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
@@ -55,8 +55,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=ranveersequeira&theme=redical)
 
 <br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=ranveersequeira" alt="ranveersequeira"/> </p>  </p>
-<br>
+
 
 
 
