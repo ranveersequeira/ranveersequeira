@@ -10,10 +10,7 @@
 - 👯 I’m looking to collaborate with other people
 - 🥅 2021 Goals: Become Full Stack Developer
 - ⚡ Fun fact: I love to study Philosophy,psychology and needless to say music never hurts 🤣
-
-
-[![GitHub followers](https://img.shields.io/github/followers/ranveersequeira?style=social)]()
-![Twitter Follow](https://img.shields.io/twitter/follow/ranveersequeira?style=social)
+</br>
 
 
 ### Connect with me:  
