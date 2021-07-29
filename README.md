@@ -15,9 +15,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/ranveersequeira?style=social)]()
 ![Twitter Follow](https://img.shields.io/twitter/follow/ranveersequeira?style=social)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ranveer Spotify Playing" width="350" />](https://open.spotify.com/user/e30ikslsk9itm1q2xuavp6taq)
 
 ### Connect with me:  
 
@@ -27,29 +24,39 @@
 </br>
 
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=ranveersequeira&margin-w=15&column=4&row=3)](https://github.com/ryo-ma/github-profile-trophy)  
-
-
-### Languages and Tools:
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25px" height="25px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
-  </p>  
-  
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg alt=sass width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg alt=express width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
+</p>
 
+<br><br>
 
+<p align="center">
 
-![ranveer's github stats](https://github-readme-stats.vercel.app/api?username=ranveersequeira&show_icons=true&hide=["issues"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranveersequeira&layout=compact&langs_count=8)](https://github.com/ranveersequeira)  
+<img width="500" src="https://metrics.lecoq.io/ranveersequeira" alt="Github Metrics">
 
+<br>
+
+</p>
+
+<br>
+
+|![](https://github-readme-stats.vercel.app/api?username=ranveersequeira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranveersequeira&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
+
+![](https://activity-graph.herokuapp.com/graph?username=ranveersequeira&theme=redical)
+
+<br>
+<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=ranveersequeira" alt="ranveersequeira"/> </p>  </p>
+<br>
 
 
 
