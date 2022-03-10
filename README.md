@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people
-- 🥅 2022 Goals: Become DevOps Engineer
+- 🥅 2022 Goals: Rust, TypeScript, Nodejs.....
 - ⚡ Fun fact: I love to study Philosophy,psychology and needless to say music never hurts 🤣
 </br>
 
