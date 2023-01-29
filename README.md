@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to study Philosophy,psychology and needless to say music never hurts 🤣
 </br>
 
-<a href="https://app.daily.dev/ranveersequeira"><img src="https://api.daily.dev/devcards/f310f99caf864fe6b814158ed0eb49b9.png?r=8ys" width="400" alt="ranveersequeira 's Dev Card"/></a>
+
 ### Connect with me:  
 
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
