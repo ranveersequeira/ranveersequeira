@@ -1,4 +1,4 @@
-### Hi there, I'm Ranveer - aka [dedgeek!](https://ranveersequeira.tech/) 👋
+### Hi there, I'm Ranveer - aka [dedgeek!](https://ranveersequeira.live/) 👋
 
 ![](https://komarev.com/ghpvc/?username=ranveersequeira)
 
@@ -6,7 +6,7 @@
 ## I'm a Tech Savvy, Learner!!
 <div align="center">
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=7287fd&logo=linux&color=7287fd&labelColor=1E1E2E" /></a>
-	<a href="https://pop.system76.com/"><img src="https://images.prismic.io/system76/fbb24542-5ef8-43b0-8276-7f9e7ff34a02_stickers.jpg?auto=compress,format" /></a>
+	<a href="https://pop.system76.com/"><img src="" alt="PopOS" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=7287fd&logoColor=7287fd&labelColor=1E1E2E" /></a>
 </div>
 
