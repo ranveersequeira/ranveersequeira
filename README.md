@@ -6,7 +6,8 @@
 ## I'm a Tech Savvy, Learner!!
 <div align="center">
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=7287fd&logo=linux&color=7287fd&labelColor=1E1E2E" /></a>
-	<a href="https://pop.system76.com/"><img src="https://img.shields.io/badge/Distro-PopOS-blue" alt="PopOS" /></a>
+	<a href="https://pop.system76.com/"><img src="https://img.shields.io/badge/DISTRO-POPOS-blue?style=for-the-badge&logo=appveyor" alt="PopOS" /></a>
+		<a href="https://pop.system76.com/"><img src="https://img.shields.io/badge/DE-GNOME-blue?style=for-the-badge&logo=appveyor" alt="PopOS" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=7287fd&logoColor=7287fd&labelColor=1E1E2E" /></a>
 </div>
 
